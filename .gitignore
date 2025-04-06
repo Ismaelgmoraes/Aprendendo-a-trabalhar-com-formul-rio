@@ -1,0 +1,38 @@
+# Build Results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# VS Code folders
+.vscode/
+
+# Visual Studio folders
+.vs/
+
+# Windows hidden files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# OS X hidden files
+.DS_Store
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.temp
